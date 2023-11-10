@@ -1,1 +1,1 @@
-# Face-Mask-and-Social-Distancing-detection-using-CNN
+# Face-Mask-and-Social-Distancing-detection
